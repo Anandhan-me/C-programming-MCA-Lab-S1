@@ -12,7 +12,7 @@ int main()
             scanf("%d",&a1[i]);
         }
         printf("****Enter the elements in array 2**** \n");
-        printf("enter the size of array 1 : ");
+        printf("enter the size of array 2 : ");
         scanf("%d",&n2);
         int a2[n2];
         for(i = 0;i < n2;i++)
@@ -49,3 +49,4 @@ int main()
         }
     return 0;
     }
+
